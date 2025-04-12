@@ -4,4 +4,4 @@ compatibility_date = "2023-05-26"
 workers_dev = true
 
 [vars]
-PASSWD = "123456"
+PASSWD = "acep"
